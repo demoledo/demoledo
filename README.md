@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demoledo
 - 👀 I’m interested in GUI python webapps
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AI agents
 - 💞️ I’m looking to collaborate on data driven software
 - 📫 How to reach me by direct message here
 
